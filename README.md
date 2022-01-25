@@ -1,3 +1,5 @@
+AAAAAAAAA
+
 # epidemiological-gcn
 
 This repository contains the source code of the paper *"An Epidemiological Neural network exploiting Dynamic Graph Structured Data applied to the COVID-19 outbreak"*. 
